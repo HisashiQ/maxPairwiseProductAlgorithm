@@ -1,8 +1,8 @@
 # maxPairwiseProductAlgorithm
 
 * To  compile, run `g++ -std=c++11 -O3 main.cpp -o pairwise`
-* To run `./pairwise`
-* Easd fanter in the size of the list/array
+* To run: `./pairwise`
+* Enter in the size of the list/array
 * Enter in the numbers to fill the array
 * For example this might look like:
 
