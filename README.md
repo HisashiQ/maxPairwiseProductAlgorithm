@@ -11,7 +11,7 @@
 `12 10000 5000 30`
 * Output would be:
 
-`1 : 10000/2 : 5000` (Index postion in array : number)
+`1 : 10000/2 : 5000` (Index position in array : number)
 
 `50000000` (Product of 10000 and 5000)
 
